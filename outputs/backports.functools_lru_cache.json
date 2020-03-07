@@ -1,1 +1,1 @@
-{"outputs": ["backports.functools_lru_cache"]}
+{"feedstocks": ["backports.functools_lru_cache"]}

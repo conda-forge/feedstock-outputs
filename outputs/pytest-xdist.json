@@ -1,1 +1,1 @@
-{"outputs": ["pytest-xdist"]}
+{"feedstocks": ["pytest-xdist"]}

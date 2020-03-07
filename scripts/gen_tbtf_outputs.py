@@ -44,7 +44,7 @@ for n in tbtf_nodes:
 
     seen |= tbtf_outputs[n]
 
-# now put through libcfgraph to make sure we have the right names
+# 3. now check to make sure we have the right names
 tails = ["linux-64", "win-64", "osx-64", "linux-aarch64", "linux-ppc64le"]
 for p in tbtf_outputs:
     final_outs = set()
@@ -78,6 +78,14 @@ for p in tbtf_outputs:
 with open("../feedstock-outputs/scripts/final_outputs.txt", "w") as fp:
     fp.write(pprint.pformat(tbtf_outputs))
 
-for p in tbtf_outputs:
+# 4. now reverse the mapping and write out
+rev = {}
+for p, outs in tbtf_outputs.items():
+    for out in outs:
+        if out not in rev:
+            rev[out] = set()
+        rev[out].add(p)
+
+for p in rev:
     with open("../feedstock-outputs/outputs/%s.json" % p, "w") as fp:
-        json.dump({"outputs": list(tbtf_outputs[p])}, fp)
+        json.dump({"feedstocks": list(rev[p])}, fp)

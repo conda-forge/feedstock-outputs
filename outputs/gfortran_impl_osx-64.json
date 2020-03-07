@@ -1,1 +1,1 @@
-{"outputs": ["gfortran_impl_osx-64", "libgfortran"]}
+{"feedstocks": ["gfortran_impl_osx-64"]}

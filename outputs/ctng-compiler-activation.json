@@ -1,1 +1,0 @@
-{"outputs": ["binutils_linux-64", "binutils_linux-ppc64le", "gxx_linux-ppc64le", "binutils_linux-aarch64", "gxx_linux-aarch64", "gfortran_linux-ppc64le", "gcc_linux-aarch64", "gfortran_linux-aarch64", "gcc_bootstrap_linux-ppc64le", "gcc_linux-ppc64le", "gxx_linux-64", "gcc_bootstrap_linux-aarch64", "gcc_linux-64", "gcc_bootstrap_linux-64", "gfortran_linux-64"]}
