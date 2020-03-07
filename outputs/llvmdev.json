@@ -1,1 +1,1 @@
-{"outputs": ["llvmdev", "llvm", "llvm-tools", "lit", "libllvm9"]}
+{"outputs": ["lit", "llvm", "llvm-tools", "libllvm9", "llvmdev"]}

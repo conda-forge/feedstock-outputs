@@ -1,1 +1,1 @@
-{"outputs": ["mpich-mpicxx", "mpich-mpicc", "mpich-mpifort", "mpich"]}
+{"outputs": ["mpich", "mpich-mpicc", "mpich-mpicxx", "mpich-mpifort"]}

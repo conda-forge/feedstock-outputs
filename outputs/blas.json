@@ -1,1 +1,1 @@
-{"outputs": ["liblapack", "liblapacke", "blas", "blas-devel", "libcblas", "libblas"]}
+{"outputs": ["liblapack", "blas-devel", "blas", "libcblas", "liblapacke", "libblas"]}

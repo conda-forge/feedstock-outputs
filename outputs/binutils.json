@@ -1,1 +1,1 @@
-{"outputs": ["ld_impl_linux-ppc64le", "ld_impl_linux-aarch64", "binutils_impl_linux-aarch64", "binutils_impl_linux-ppc64le", "ld_impl_linux-64", "binutils_impl_linux-64", "binutils"]}
+{"outputs": ["binutils_impl_linux-64", "binutils_impl_linux-aarch64", "ld_impl_linux-aarch64", "ld_impl_linux-ppc64le", "binutils", "binutils_impl_linux-ppc64le", "ld_impl_linux-64"]}

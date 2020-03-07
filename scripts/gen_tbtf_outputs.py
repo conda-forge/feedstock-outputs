@@ -16,6 +16,8 @@ with open("../feedstock-outputs/scripts/tbtf_nodes.txt", "r") as fp:
 tbtf_nodes = set(tbtf_nodes)
 tbtf_nodes.add("clang-compiler-activation")
 tbtf_nodes.add("clang-win-activation")
+tbtf_nodes.add("gfortran_osx-64")
+tbtf_nodes.add("gfortran_impl_osx-64")
 
 seen = set()
 tbtf_outputs = {}

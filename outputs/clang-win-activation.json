@@ -1,1 +1,1 @@
-{"outputs": ["winsdk", "msvc-headers-libs", "clang_win-64"]}
+{"outputs": ["msvc-headers-libs", "winsdk", "clang_win-64"]}

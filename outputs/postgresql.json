@@ -1,1 +1,1 @@
-{"outputs": ["postgresql-plpython", "libpq", "postgresql"]}
+{"outputs": ["postgresql", "libpq", "postgresql-plpython"]}
