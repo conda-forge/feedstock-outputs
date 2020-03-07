@@ -14,10 +14,18 @@ with open("../feedstock-outputs/scripts/tbtf_nodes.txt", "r") as fp:
 
 # 3. add things that seem to be missed...
 tbtf_nodes = set(tbtf_nodes)
-tbtf_nodes.add("clang-compiler-activation")
-tbtf_nodes.add("clang-win-activation")
-tbtf_nodes.add("gfortran_osx-64")
-tbtf_nodes.add("gfortran_impl_osx-64")
+tbtf_nodes |= set([
+    "clang-compiler-activation",
+    "clang-win-activation",
+    "gfortran_osx-64",
+    "gfortran_impl_osx-64",
+    "_openmp_mutex",
+    "intel_repack",
+    "numba",
+    "cython",
+    "pybind11",
+])
+
 
 seen = set()
 tbtf_outputs = {}

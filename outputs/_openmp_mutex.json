@@ -1,1 +1,1 @@
-{"feedstocks": ["ctng-compilers"]}
+{"feedstocks": ["ctng-compilers", "_openmp_mutex"]}
