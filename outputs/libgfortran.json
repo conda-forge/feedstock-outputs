@@ -1,1 +1,1 @@
-{"feedstocks": ["gfortran_impl_osx-64", "libgfortran"]}
+{"feedstocks": ["libgfortran", "gfortran_impl_osx-64"]}

@@ -1,6 +1,7 @@
 7za
 _libarchive_static_for_cph
 alabaster
+anaconda-client
 apipkg
 appdirs
 appnope
@@ -39,13 +40,16 @@ chardet
 clangdev
 click
 cloudpickle
+clyent
 cmake
 colorama
 conda
 conda-build
+conda-build-all
 conda-env
 conda-forge-pinning
 conda-package-handling
+conda-smithy
 conda-verify
 configparser
 contextlib2

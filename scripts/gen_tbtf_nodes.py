@@ -43,6 +43,10 @@ for pkg in ["conda", "conda-build", "conda-smithy"]:
                 if fs is not None:
                     _tbtf.add(fs)
 
+    if pkg not in _tbtf:
+        fs = _get_feedstock(pkg, gx, output_to_feedstock)
+        if fs is not None:
+            _tbtf.add(fs)
     init_tbtf_packages |= _tbtf
 
 # more than 5% of everything
