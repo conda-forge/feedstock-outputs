@@ -1,1 +1,1 @@
-{"ok": ["armadillo", "gdcm", "isl", "libssh2", "simbody", "sdl2_mixer", "czmq", "helics", "gsl-lite"]}
+{"ok": ["gdcm", "isl", "simbody", "sdl2_mixer", "czmq", "helics", "gsl-lite"]}
