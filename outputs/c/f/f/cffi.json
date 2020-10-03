@@ -1,1 +1,1 @@
-{"feedstocks": ["cffi"]}
+{"feedstocks": ["cffi", "pypy-meta"]}
