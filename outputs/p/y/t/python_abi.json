@@ -1,1 +1,1 @@
-{"feedstocks": ["python_abi"]}
+{"feedstocks": ["python_abi", "python", "pypy-meta"]}
