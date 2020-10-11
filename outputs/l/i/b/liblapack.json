@@ -1,1 +1,1 @@
-{"feedstocks": ["blas"]}
+{"feedstocks": ["blas", "lapack"]}
