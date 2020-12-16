@@ -1,0 +1,46 @@
+name: deploy
+
+on:
+  workflow_dispatch: null
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: checkout
+      uses: actions/checkout@v2
+
+    - name: setup miniconda
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        channels: conda-forge,defaults
+        channel-priority: strict
+        auto-activate-base: true
+        python-version: 3.7
+
+    - name: update website
+      shell: bash -l {0}
+      run: |
+        git clone --depth=1 https://github.com/conda-forge/conda-forge.github.io
+        conda env create -f conda-forge.github.io/.ci_scripts/environment.yml
+        conda activate conda-forge-docs
+        mkdir -p site
+        python \
+          conda-forge.github.io/.ci_scripts/generate_feedstock_outputs_html.py \
+          conda-forge.github.io/feedstock_outputs.html.tmpl \
+          site/index.html \
+          .
+        touch site/.nojekyll
+
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        # personal_token: ${{ secrets.CF_BLACKSMITHY_TOKEN }}
+        publish_dir: ./site
+        # user_name: cf-blacksmithy
+        # user_email: cf-blacksmithy@email.com
