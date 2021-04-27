@@ -1,1 +1,1 @@
-{"feedstocks": ["goosefem"]}
+{"feedstocks": ["goosefem", "python-goosefem"]}
