@@ -1,1 +1,1 @@
-{"feedstocks": ["slack-sdk"]}
+{"feedstocks": ["slack-sdk", "slack_sdk"]}
