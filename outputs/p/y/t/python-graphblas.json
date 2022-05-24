@@ -1,1 +1,1 @@
-{"feedstocks": ["grblas"]}
+{"feedstocks": ["grblas", "python-graphblas"]}
