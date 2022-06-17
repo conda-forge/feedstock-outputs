@@ -1,1 +1,1 @@
-{"feedstocks": ["grpcio"]}
+{"feedstocks": ["grpcio", "grpc-cpp"]}
