@@ -1,1 +1,1 @@
-{"feedstocks": ["dbt"]}
+{"feedstocks": ["dbt", "dbt-bigquery"]}
