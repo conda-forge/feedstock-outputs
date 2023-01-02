@@ -1,1 +1,1 @@
-{"feedstocks": ["cryptography-vectors"]}
+{"feedstocks": ["cryptography", "cryptography-vectors"]}
