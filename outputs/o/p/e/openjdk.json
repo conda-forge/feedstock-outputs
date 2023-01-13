@@ -1,1 +1,1 @@
-{"feedstocks": ["openjdk"]}
+{"feedstocks": ["graalpy", "openjdk"]}
