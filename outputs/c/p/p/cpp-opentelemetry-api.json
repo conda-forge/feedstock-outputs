@@ -1,1 +1,1 @@
-{"feedstocks": ["cpp-opentelemetry-api"]}
+{"feedstocks": ["cpp-opentelemetry-api", "cpp-opentelemetry-sdk"]}
