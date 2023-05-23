@@ -1,1 +1,1 @@
-{"feedstocks": ["boost-cpp"]}
+{"feedstocks": ["boost", "boost-cpp"]}
