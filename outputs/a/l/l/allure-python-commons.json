@@ -1,1 +1,1 @@
-{"feedstocks": ["allure-python"]}
+{"feedstocks": ["allure-python-commons", "allure-python"]}
