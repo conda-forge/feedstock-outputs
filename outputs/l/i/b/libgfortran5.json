@@ -1,1 +1,1 @@
-{"feedstocks": ["gfortran_impl_osx-64", "ctng-compilers"]}
+{"feedstocks": ["gfortran_impl_osx-64", "ctng-compilers", "m2w64-gcc-libs"]}

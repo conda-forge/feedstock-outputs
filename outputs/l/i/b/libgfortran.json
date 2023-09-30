@@ -1,1 +1,1 @@
-{"feedstocks": ["libgfortran", "gfortran_impl_osx-64"]}
+{"feedstocks": ["libgfortran", "gfortran_impl_osx-64", "m2w64-gcc-libs"]}
