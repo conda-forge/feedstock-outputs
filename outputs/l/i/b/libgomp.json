@@ -1,1 +1,1 @@
-{"feedstocks": ["ctng-compilers"]}
+{"feedstocks": ["ctng-compilers", "m2w64-gcc-libs"]}
