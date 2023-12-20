@@ -1,1 +1,1 @@
-{"feedstocks": ["google-cloud-cpp"]}
+{"feedstocks": ["google-cloud-cpp", "google-cloud-cpp-core"]}
