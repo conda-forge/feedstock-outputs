@@ -31,7 +31,7 @@ jobs:
         mkdir -p site
         python \
           conda-forge.github.io/.ci_scripts/generate_feedstock_outputs_html.py \
-          conda-forge.github.io/feedstock_outputs.html.tmpl \
+          conda-forge.github.io/sphinx/feedstock_outputs.html.tmpl \
           site/index.html \
           .
         touch site/.nojekyll
