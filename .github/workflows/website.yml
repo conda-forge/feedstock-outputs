@@ -35,6 +35,7 @@ jobs:
           site/index.html \
           .
         touch site/.nojekyll
+        cp -r conda-forge.github.io/sphinx/css site/.
 
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
