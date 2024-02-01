@@ -26,3 +26,9 @@ jobs:
       shell: bash -l {0}
       run: |
         python scripts/all_json.py outputs/ site/feedstock-outputs.json
+
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site
