@@ -1,1 +1,1 @@
-{"feedstocks": ["flit"]}
+{"feedstocks": ["flit", "flit-core"]}
