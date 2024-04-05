@@ -1,1 +1,1 @@
-{"feedstocks": ["rocm-opencl-runtime"]}
+{"feedstocks": ["rocm-opencl-runtime", "hip"]}
