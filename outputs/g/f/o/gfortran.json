@@ -1,1 +1,1 @@
-{"feedstocks": ["gfortran_osx-64", "ctng-compiler-activation"]}
+{"feedstocks": ["gfortran_osx-64", "ctng-compiler-activation", "ctng-compilers"]}
