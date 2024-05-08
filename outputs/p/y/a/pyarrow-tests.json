@@ -1,1 +1,1 @@
-{"feedstocks": ["arrow-cpp"]}
+{"feedstocks": ["pyarrow", "arrow-cpp"]}
