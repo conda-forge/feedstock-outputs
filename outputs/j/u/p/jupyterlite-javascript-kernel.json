@@ -1,1 +1,1 @@
-{"feedstocks": ["jupyterlite-core"]}
+{"feedstocks": ["jupyterlite-core", "jupyterlite-javascript-kernel"]}
