@@ -1,1 +1,1 @@
-{"feedstocks": ["m2w64-gcc"]}
+{"feedstocks": ["m2w64-gcc", "m2w64-sysroot"]}
