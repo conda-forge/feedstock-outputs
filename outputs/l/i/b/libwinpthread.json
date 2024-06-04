@@ -1,1 +1,1 @@
-{"feedstocks": ["winpthreads"]}
+{"feedstocks": ["winpthreads", "m2w64-sysroot"]}
