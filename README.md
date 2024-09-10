@@ -2,6 +2,19 @@
 
 registry of feedstock outputs
 
+## Configuration
+
+The JSON blob [`config.json`](config.json) contains the configuration for the feedstock outputs registry. The configuration contains the following fields:
+
+- outputs_path: the path to the sharded outputs in the repo
+- shard_level: how deeply the outputs are sharded
+- shard_fill: the character to use to fill in sharding levels for outputs
+  with names shorter than shard_level
+- auto_register_all: whether to automatically register new outputs for any feedstock
+
+The `auto_register_all` boolean is used by the `conda-forge-webservices` and `conda-forge-ci-setup` packages to determine if new outputs should be automatically registered. If `auto_register_all` is `true`, then any new outputs for feedstock
+will be automatically added. If it is `false`, then only those that match the glob patterns (as described below) will be added.
+
 ## Format
 
 Each json blob maps the conda package (in the name of the json blob) to the feedstocks that produce it (in the "feedstocks" list in the json blob contants).
