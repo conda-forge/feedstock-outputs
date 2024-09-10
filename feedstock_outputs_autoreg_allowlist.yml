@@ -93,8 +93,7 @@ libsecp256k1:
 libsigcpp:
   - sigcpp-*
 m2-binary-packages:
-  - m2-automake*
-  - m2-libpcre2_*
+  - m2-*
 mlir:
   - libmlir*
 rtaudio:
