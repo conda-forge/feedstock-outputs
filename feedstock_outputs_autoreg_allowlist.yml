@@ -5,100 +5,102 @@
 # ways over time (e.g., `libllvm18`, `libllvm19`, etc.). The glob patterns
 # are interpreted by Python's `fnmatch` module.
 atk:
-  - atk-*
+- atk-*
 atkmm:
-  - atkmm-*
+- atkmm-*
 cairomm:
-  - cairomm-*
+- cairomm-*
 clangdev:
-  - clang-*
-  - clang-format-*
-  - libclang*
-  - libclang-cpp*
+- clang-*
+- clang-format-*
+- libclang*
+- libclang-cpp*
 ctng-compilers:
-  - libgfortran*
+- libgfortran*
 gfortran_impl_osx-64:
-  - libgfortran*
+- libgfortran*
 glibmm:
-  - glibmm-*
+- glibmm-*
 gtkmm:
-  - gtkmm-*
+- gtkmm-*
 gz-fuel-tools:
-  - gz-fuel-tools*
-  - libgz-fuel-tools*
+- gz-fuel-tools*
+- libgz-fuel-tools*
 gz-gui:
-  - gz-gui*
-  - libgz-gui*
+- gz-gui*
+- libgz-gui*
 gz-launch:
-  - gz-launch*
-  - libgz-launch*
+- gz-launch*
+- libgz-launch*
 gz-msgs:
-  - gz-msgs*
-  - libgz-msgs*
+- gz-msgs*
+- libgz-msgs*
 gz-physics:
-  - gz-physics*
-  - libgz-physics*
+- gz-physics*
+- libgz-physics*
 gz-rendering:
-  - gz-rendering*
-  - libgz-rendering*
+- gz-rendering*
+- libgz-rendering*
 gz-sensors:
-  - gz-sensors*
-  - libgz-sensors*
+- gz-sensors*
+- libgz-sensors*
 gz-sim:
-  - gz-sim*
-  - libgz-sim*
+- gz-sim*
+- libgz-sim*
 gz-transport:
-  - gz-transport*
-  - libgz-transport*
+- gz-transport*
+- libgz-transport*
 heyoka:
-  - heyoka-llvm-*
+- heyoka-llvm-*
 libbip3x:
-  - libbip3x-*
-  - libbip3x_jni-*
-  - libcbip3x-*
+- libbip3x-*
+- libbip3x_jni-*
+- libcbip3x-*
 libignition-common:
-  - ignition-common*
+- ignition-common*
 libignition-fuel-tools:
-  - ignition-fuel-tools*
+- ignition-fuel-tools*
 libignition-gazebo:
-  - ignition-gazebo*
+- ignition-gazebo*
 libignition-gui:
-  - ignition-gui*
+- ignition-gui*
 libignition-launch:
-  - ignition-launch*
+- ignition-launch*
 libignition-math4:
-  - ignition-math*
+- ignition-math*
 libignition-msgs1:
-  - ignition-msgs*
+- ignition-msgs*
 libignition-physics:
-  - ignition-physics*
+- ignition-physics*
 libignition-rendering4:
-  - ignition-rendering*
+- ignition-rendering*
 libignition-sensors:
-  - ignition-sensors*
+- ignition-sensors*
 libignition-transport4:
-  - ignition-transport*
+- ignition-transport*
 llvm-spirv:
-  - libllvmspirv*
-  - llvm-spirv-*
+- libllvmspirv*
+- llvm-spirv-*
 llvmdev:
-  - libllvm*
-  - libllvm-c*
-  - llvm-tools-*
+- libllvm*
+- libllvm-c*
+- llvm-tools-*
 libsdformat:
-  - sdformat*
-  - libsdformat*
+- sdformat*
+- libsdformat*
 libsecp256k1:
-  - libsecp256k1-*
+- libsecp256k1-*
 libsigcpp:
-  - sigcpp-*
+- sigcpp-*
 m2-binary-packages:
-  - m2-*
+- m2-*
 mlir:
-  - libmlir*
+- libmlir*
 rtaudio:
-  - librtaudio*
+- librtaudio*
 pangomm:
-  - pangomm-*
+- pangomm-*
 staged-recipes:
-  - "blah-*"  # this entry allows us to do testing of the webservices do not remove
+- blah-*      # this entry allows us to do testing of the webservices do not remove
+dparse:
+- dparse-with-*
