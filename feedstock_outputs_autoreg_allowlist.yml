@@ -104,3 +104,5 @@ staged-recipes:
 - blah-*      # this entry allows us to do testing of the webservices do not remove
 dparse:
 - dparse-with-*
+flash-attn:
+- flash-attn-*
