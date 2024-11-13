@@ -106,3 +106,5 @@ dparse:
 - dparse-with-*
 flash-attn:
 - flash-attn-*
+gdal:
+- libgdal-*
