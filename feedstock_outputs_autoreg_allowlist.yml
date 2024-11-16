@@ -108,3 +108,5 @@ flash-attn:
 - flash-attn-*
 gdal:
 - libgdal-*
+urljsf:
+- urljsf-*
