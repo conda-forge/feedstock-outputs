@@ -110,3 +110,5 @@ gdal:
 - libgdal-*
 urljsf:
 - urljsf-*
+adam-robotics:
+- adam-robotics-*
