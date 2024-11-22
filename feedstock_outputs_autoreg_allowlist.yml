@@ -112,3 +112,5 @@ urljsf:
 - urljsf-*
 adam-robotics:
 - adam-robotics-*
+scikit_sundae:
+- scikit-sundae*
