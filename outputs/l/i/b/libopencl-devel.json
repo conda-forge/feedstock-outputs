@@ -1,1 +1,1 @@
-{"feedstocks": ["ocl-icd"]}
+{"feedstocks": ["ocl-icd", "khronos-opencl-icd-loader"]}
