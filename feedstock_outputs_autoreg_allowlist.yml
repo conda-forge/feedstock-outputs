@@ -116,3 +116,4 @@ scikit_sundae:
 - scikit-sundae*
 spacy-models:
 - spacy-models-*
+- spacy-model-*
