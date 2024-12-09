@@ -1,1 +1,1 @@
-{"feedstocks": ["scipy"]}
+{"feedstocks": ["scipy", "scipy-stubs"]}
