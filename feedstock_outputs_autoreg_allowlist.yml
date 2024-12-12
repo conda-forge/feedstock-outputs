@@ -117,3 +117,5 @@ scikit_sundae:
 spacy-models:
 - spacy-models-*
 - spacy-model-*
+wetterdienst:
+- wetterdienst-with-*
