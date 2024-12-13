@@ -119,3 +119,5 @@ spacy-models:
 - spacy-model-*
 wetterdienst:
 - wetterdienst-with-*
+freetype:
+- libfreetype*
