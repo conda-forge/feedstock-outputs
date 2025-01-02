@@ -121,3 +121,5 @@ wetterdienst:
 - wetterdienst-with-*
 freetype:
 - libfreetype*
+databricks-sql-connector:
+- databricks-sql-connector-with-*
