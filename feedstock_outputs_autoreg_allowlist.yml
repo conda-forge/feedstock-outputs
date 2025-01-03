@@ -123,3 +123,5 @@ freetype:
 - libfreetype*
 databricks-sql-connector:
 - databricks-sql-connector-with-*
+bleach:
+- bleach-with-*
