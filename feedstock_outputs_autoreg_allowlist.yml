@@ -129,3 +129,4 @@ tracy:
 - tracy-profiler*
 openvdb:
 - openvdb-*
+- nanovdb-*
