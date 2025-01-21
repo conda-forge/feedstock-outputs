@@ -130,3 +130,5 @@ tracy:
 openvdb:
 - openvdb-*
 - nanovdb-*
+parsl:
+- parsl-with-*
