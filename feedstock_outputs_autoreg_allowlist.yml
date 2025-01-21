@@ -132,3 +132,5 @@ openvdb:
 - nanovdb-*
 parsl:
 - parsl-with-*
+ray-packages:
+- ray-*
