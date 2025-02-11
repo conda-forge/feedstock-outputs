@@ -138,3 +138,5 @@ pipefunc:
 - pipefunc-*
 ncrystal:
 - ncrystal-*
+libcudss:
+- libcudss*
