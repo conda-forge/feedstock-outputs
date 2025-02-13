@@ -142,3 +142,5 @@ libcudss:
 - libcudss*
 cusparselt:
 - cusparselt-*
+openfast:
+- openfast-*
