@@ -140,3 +140,5 @@ ncrystal:
 - ncrystal-*
 libcudss:
 - libcudss*
+cusparselt:
+- cusparselt-*
