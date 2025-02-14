@@ -144,3 +144,5 @@ cusparselt:
 - cusparselt-*
 openfast:
 - openfast-*
+jupytergis-packages:
+- jupytergis*
