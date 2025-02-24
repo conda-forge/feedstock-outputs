@@ -146,3 +146,5 @@ openfast:
 - openfast-*
 jupytergis-packages:
 - jupytergis*
+apache-beam:
+- apache-beam-with-*
