@@ -148,3 +148,5 @@ jupytergis-packages:
 - jupytergis*
 apache-beam:
 - apache-beam-with-*
+granian:
+- granian-with-*
