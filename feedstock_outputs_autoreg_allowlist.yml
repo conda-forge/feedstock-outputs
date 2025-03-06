@@ -150,3 +150,5 @@ apache-beam:
 - apache-beam-with-*
 granian:
 - granian-with-*
+jupytercad:
+- jupytercad_*
