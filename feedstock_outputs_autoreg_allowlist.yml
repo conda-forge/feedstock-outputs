@@ -156,3 +156,5 @@ lenskit:
 - lenskit-*
 flask:
 - flask-with-*
+connexion:
+- connexion-with-*
