@@ -154,3 +154,5 @@ jupytercad:
 - jupytercad_*
 lenskit:
 - lenskit-*
+flask:
+- flask-with-*
