@@ -158,3 +158,5 @@ flask:
 - flask-with-*
 connexion:
 - connexion-with-*
+sqlalchemy:
+- sqlalchemy-with-*
