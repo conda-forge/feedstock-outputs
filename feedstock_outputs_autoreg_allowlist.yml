@@ -160,3 +160,5 @@ connexion:
 - connexion-with-*
 sqlalchemy:
 - sqlalchemy-with-*
+biomechanical-analysis-framework:
+- biomechanical-analysis-framework-*
