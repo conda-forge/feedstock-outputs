@@ -166,3 +166,4 @@ openmdao:
 - openmdao-with-*
 cudnn:
 - cudnn-*
+- libcudnn-*
