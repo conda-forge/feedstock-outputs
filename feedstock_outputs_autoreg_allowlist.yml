@@ -167,3 +167,5 @@ openmdao:
 cudnn:
 - cudnn-*
 - libcudnn-*
+libint:
+- libint-*
