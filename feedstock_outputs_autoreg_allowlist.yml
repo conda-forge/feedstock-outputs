@@ -169,3 +169,5 @@ cudnn:
 - libcudnn-*
 libint:
 - libint-*
+mcpl:
+- mcpl-*
