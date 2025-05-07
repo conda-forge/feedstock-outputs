@@ -183,3 +183,5 @@ libnvpl-rand:
 - libnvpl-rand[0123456789]
 libnvpl-scalapack:
 - libnvpl-scalapack[0123456789]
+libnvpl-sparse:
+- libnvpl-sparse[0123456789]
