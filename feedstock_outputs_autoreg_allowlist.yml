@@ -191,3 +191,5 @@ libnvtiff:
 - libnvtiff[0123456789]
 libnvimgcodec:
 - libnvimgcodec[0123456789]
+libnvpl-fft:
+- libnvpl-fft[0123456789]
