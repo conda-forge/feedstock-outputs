@@ -175,3 +175,5 @@ dav1d:
 - libdav1d[0123456789]
 libnvjpeg2k-split:
 - libnvjpeg2k[0123456789]
+libnvpl-blas:
+- libnvpl-blas[0123456789]
