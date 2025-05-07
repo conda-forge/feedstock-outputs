@@ -177,3 +177,5 @@ libnvjpeg2k-split:
 - libnvjpeg2k[0123456789]
 libnvpl-blas:
 - libnvpl-blas[0123456789]
+libnvpl-lapack:
+- libnvpl-lapack[0123456789]
