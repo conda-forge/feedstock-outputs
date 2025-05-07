@@ -189,3 +189,5 @@ libnvshmem:
 - libnvshmem[0123456789]
 libnvtiff:
 - libnvtiff[0123456789]
+libnvimgcodec:
+- libnvimgcodec[0123456789]
