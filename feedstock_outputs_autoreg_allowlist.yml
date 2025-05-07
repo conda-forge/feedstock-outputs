@@ -171,3 +171,5 @@ libint:
 - libint-*
 mcpl:
 - mcpl-*
+dav1d:
+- libdav1d[0123456789]
