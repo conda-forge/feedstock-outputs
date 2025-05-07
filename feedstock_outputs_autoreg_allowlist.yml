@@ -187,3 +187,5 @@ libnvpl-sparse:
 - libnvpl-sparse[0123456789]
 libnvshmem:
 - libnvshmem[0123456789]
+libnvtiff:
+- libnvtiff[0123456789]
