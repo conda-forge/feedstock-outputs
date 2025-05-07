@@ -179,3 +179,5 @@ libnvpl-blas:
 - libnvpl-blas[0123456789]
 libnvpl-lapack:
 - libnvpl-lapack[0123456789]
+libnvpl-rand:
+- libnvpl-rand[0123456789]
