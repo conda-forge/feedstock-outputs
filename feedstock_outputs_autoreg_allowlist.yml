@@ -185,3 +185,5 @@ libnvpl-scalapack:
 - libnvpl-scalapack[0123456789]
 libnvpl-sparse:
 - libnvpl-sparse[0123456789]
+libnvshmem:
+- libnvshmem[0123456789]
