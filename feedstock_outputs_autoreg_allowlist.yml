@@ -193,3 +193,5 @@ libnvimgcodec:
 - libnvimgcodec[0123456789]
 libnvpl-fft:
 - libnvpl-fft[0123456789]
+libnvpl-tensor:
+- libnvpl-tensor[0123456789]
