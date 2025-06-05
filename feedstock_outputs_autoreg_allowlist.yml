@@ -197,3 +197,5 @@ libnvpl-tensor:
 - libnvpl-tensor[0123456789]
 pandera:
 - pandera-*
+cuda-nvcc-impl:
+- libnvptxcompiler-dev_*
