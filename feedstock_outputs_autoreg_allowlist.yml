@@ -200,3 +200,5 @@ pandera:
 cuda-nvcc-impl:
 - libnvptxcompiler-dev_*
 - libnvptxcompiler-dev*
+libxml2:
+- libxml2-[0-9]*
