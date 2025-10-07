@@ -202,3 +202,5 @@ cuda-nvcc-impl:
 - libnvptxcompiler-dev*
 libxml2:
 - libxml2-[0-9]*
+compiler-rt:
+- compiler-rt*
