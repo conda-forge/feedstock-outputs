@@ -1,1 +1,1 @@
-{"feedstocks": ["cuda-python"]}
+{"feedstocks": ["cuda-python", "cuda-core"]}
