@@ -1,1 +1,1 @@
-{"feedstocks": ["m2w64-gcc", "windows-default-manifest"]}
+{"feedstocks": ["m2w64-gcc", "windows-default-manifest", "m2w64-sysroot"]}
