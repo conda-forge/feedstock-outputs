@@ -204,3 +204,5 @@ libxml2:
 - libxml2-[0-9]*
 compiler-rt:
 - compiler-rt*
+cross-python:
+- cross-python_*
