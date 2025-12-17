@@ -1,1 +1,1 @@
-{"feedstocks": ["zlib"]}
+{"feedstocks": ["zlib", "zlib-ng"]}
