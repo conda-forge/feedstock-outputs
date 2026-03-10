@@ -206,3 +206,5 @@ compiler-rt:
 - compiler-rt*
 cross-python:
 - cross-python_*
+libparallelproj:
+- libparallelproj*
