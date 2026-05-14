@@ -208,3 +208,5 @@ cross-python:
 - cross-python_*
 libparallelproj:
 - libparallelproj*
+vc:
+- vs2026*
