@@ -1,1 +1,1 @@
-{"feedstocks": ["clangdev"]}
+{"feedstocks": ["clangdev", "clang-compiler-activation"]}
