@@ -1,1 +1,1 @@
-{"feedstocks": ["openmp"]}
+{"feedstocks": ["openmp", "flang-rt"]}
