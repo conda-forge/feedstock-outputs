@@ -1,1 +1,1 @@
-{"feedstocks": ["onnxruntime"]}
+{"feedstocks": ["onnxruntime", "onnxruntime-ep-openvino"]}
