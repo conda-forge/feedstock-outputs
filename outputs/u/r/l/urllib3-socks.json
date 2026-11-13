@@ -1,1 +1,1 @@
-{"feedstocks": ["pystac"]}
+{"feedstocks": ["pystac", "urllib3"]}
