@@ -210,3 +210,5 @@ libparallelproj:
 - libparallelproj*
 vc:
 - vs2026*
+albumentationsx:
+- albumentationsx-*
